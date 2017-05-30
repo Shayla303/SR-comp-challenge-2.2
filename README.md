@@ -15,4 +15,4 @@ Below are a series of my version, which I themed as a site on which users can sh
 ------------
 
 ###The Voice###
-![my version, desktop view]()
+<img src="images/STATICCOMP2.png/>
