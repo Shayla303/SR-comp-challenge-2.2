@@ -10,8 +10,6 @@ The original comp (see below) was for a desktop view. The challenge was to repli
 ###Original Comp###
 ![original comp image](http://frontend.turing.io/assets/images/static-comp-challenge-2.jpg)
 
-Below are a series of my version, which I themed as a site on which users can share and save recipes.
-
 ------------
 
 ###The Voice###
